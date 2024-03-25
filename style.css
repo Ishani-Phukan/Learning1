@@ -20,10 +20,11 @@ body{
 .monuments{
     width:250px;
     height: 225px;
-    margin: auto  10px 70px 10px;
+    margin: auto  20px 70px 20px;
 }
 
 .center{
-    margin: 0px 0px 0px 150px;
+    margin: auto 100px auto 100px;
     display: block;
 }
+
