@@ -14,3 +14,13 @@ body{
     color: black;
     background-color: antiquewhite;
 }
+
+.monuments{
+    width:250px;
+    height: 225px;
+}
+
+.center{
+    margin: auto auto auto 150px;
+    display: block;
+}
